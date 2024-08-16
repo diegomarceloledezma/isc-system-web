@@ -1,3 +1,10 @@
 - Paul Landaeta
-- Diego Ledezma
+
+
 - Alexia Marin
+- Alexia Marin
+- Andres Sanchez
+- Miguel Quenta
+- Adrian Sanchez
+-  Diego Ledezma
+
